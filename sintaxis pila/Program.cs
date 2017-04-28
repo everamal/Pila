@@ -20,7 +20,7 @@ namespace ConsoleApplication1
             Pila.Push(Console.ReadLine());
             Pila.Push(Console.ReadLine());
             Pila.Push(Console.ReadLine());
-
+            //--
             Array arreglo = Pila.ToArray();
 
             foreach (string valor in arreglo)
